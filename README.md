@@ -74,4 +74,3 @@ This stage transforms the machine learning model into an accessible, real-world 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/credit-score-prediction.git
-   cd credit-score-prediction
